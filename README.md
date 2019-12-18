@@ -1,2 +1,2 @@
 # hello-world
-share and discuss things with
+share and discuss things with others
